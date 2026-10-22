@@ -1,7 +1,7 @@
 # Electricity Bill Calculator
 
 ## Description
-Developing computational thinking skills
+This program calculates the total electricity bill.
 
 ## Version 1 – Original code without input validation
 - Input: Accepts a user's name and the previous and current meter reading's.
