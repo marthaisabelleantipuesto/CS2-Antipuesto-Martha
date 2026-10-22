@@ -15,5 +15,5 @@ This program calculates the total electricity bill.
 - Includes input validation.
 
 ## Author
-Name: Martha Isabelle Antipuesto
-Section: 8-Rosal
+- Name: Martha Isabelle Antipuesto
+- Section: 8-Rosal
