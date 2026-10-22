@@ -1,4 +1,4 @@
-# CS 2 – Coding in a Connected World: Developing Computational Thinking Skills
+# Electricity Bill Calculator
 
 ## Description
 Developing computational thinking skills
