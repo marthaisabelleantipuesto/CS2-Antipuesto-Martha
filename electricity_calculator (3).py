@@ -9,7 +9,7 @@ if previous < 0:
     print("Invalid. Please enter previous meter reading.")
     previous = float(input("Enter previous meter reading: "))
 current = float(input("Enter current meter reading: "))
-if current <= previous:
+if current < previous:
     print("Invalid. Please enter current meter reading.")
     current = float(input("Enter current meter reading: "))
 
